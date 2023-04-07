@@ -6,7 +6,6 @@
 
 int main() {
     pid_t pid;
-    int status;
     pid = fork(); // Create a child process
 
     if (pid == 0) // Child process
