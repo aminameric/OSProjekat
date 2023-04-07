@@ -30,4 +30,7 @@ Instructions for compiling your programs/scripts:
 Our programs are already send with compile files. In case that doesn't work just write in terminal gcc -o executiablename filename.c -Wall. To run you write ./filename
 
 Any challenges you encountered along the way:
-Making this project was challenging but interesting. We needed to use 
+Making this project was challenging but interesting. We needed to use boyond our knowledge and reasarch a lot which is a good thing but it was very challenging. Also, it was diffucult to find some information online, to better understand what we need to do, since there is not a lot of information online.
+
+Any sources/tutorials you have used to complete the assignment:
+Google, man page, ChatGPT, collegues help to better understand what we need to do.
