@@ -11,6 +11,8 @@ List of files within this submission:
   6. task3Additionally.c
   7. task2Additionally (compiled)
   8. docs.txt (used for testing)
+  9. docs2.txt (used for testing)
+  10. docs3.txt (used for testing)
   
 Q1: What does the mmap() function do?
 
