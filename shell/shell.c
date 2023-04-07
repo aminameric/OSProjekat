@@ -8,7 +8,7 @@
 #include <sys/statvfs.h>
 #include <sys/wait.h>
 
-#define RED "\033[0;31m"
+#define RED "\033[0;31m"                               //colors declaration
 #define GREEN "\033[0;32m"
 #define YELLOW "\033[0;33m"
 #define BLUE "\033[0;34m"
