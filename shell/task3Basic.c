@@ -42,7 +42,7 @@ and it has its own copy of variables and data structures that are used by the pr
 it of its exit status. The wait() system call allows the parent process to retrieve this exit status and continue its own execution.
 ->exec() is used to replace the current process image with a new process image. It is often used to execute a new program within the context of the current process.
 When exec() is called, the current process is replaced with the new process specified in the arguments to the exec() function.
-
-The wait() system call blocks the execution of the parent process until one of its child processes terminates. If the parent process has multiple child processes, it can use the waitpid() system call to wait for a specific child process to terminate.
+The wait() system call blocks the execution of the parent process until one of its child processes terminates. If the parent process has multiple child processes, 
+it can use the waitpid() system call to wait for a specific child process to terminate.
 
 */
