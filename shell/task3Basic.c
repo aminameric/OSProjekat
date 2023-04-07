@@ -33,7 +33,7 @@ int main() {
 }
 
 /*
-->fork() is a system call in Linux (and other Unix-like operating systems) that creates a new process by duplicating the calling process. 
+->fork() is a system call in Linux that creates a new process by duplicating the calling process. 
 The new process is called the child process, and the original process is called the parent process.
 When fork() is called, a new process is created that is identical to the parent process in almost every way. 
 This includes the contents of memory, the state of all file descriptors, and the program counter. However, the child process gets its own unique process ID (PID),
